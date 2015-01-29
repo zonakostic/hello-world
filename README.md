@@ -6,3 +6,5 @@ And another line of txt
 this is new readme for comparison with master branch 
 
 this is for marge and delete
+
+from branch
